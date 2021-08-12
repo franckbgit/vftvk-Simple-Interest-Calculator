@@ -8,7 +8,13 @@ h1{color:grey;font-family:verdana;font-size:26px;}
     width: 400px;
     padding: 20px;
     border-radius: 25px;
-    align:center
+    align:center;
+    margin: auto
+}
+
+.seconddiv {
+    width: 300px;
+    margin: auto
 }
 
 mark {
